@@ -1,4 +1,5 @@
 import Features from "./sections/Features";
+import Footer from "./sections/Footer";
 import Hero from "./sections/Hero";
 import Nav from "./sections/Nav";
 import Partners from "./sections/Partners";
@@ -12,6 +13,7 @@ function App() {
       <Features />
       <Partners />
       <Reviews />
+      <Footer />
     </>
   );
 }
